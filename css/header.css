@@ -7,7 +7,7 @@ header{
 
 nav{
     height: 100%;
-    width: 80%;
+    width: 70%;
 }
 
 .nav-link{
@@ -18,7 +18,7 @@ nav{
     color: white;
     font-size: 1rem;
     text-transform: uppercase;
-    margin: 2%;
+    margin: 6%;
     padding: 1% 6%;
 }
 
@@ -41,6 +41,7 @@ nav{
 
 .logo-container a h2{
     color: white;
+    margin-right: 100px;
 }
 
 .center-header-sections{

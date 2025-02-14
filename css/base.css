@@ -6,11 +6,11 @@
     --background-color: #F5F8FF;
     --surface-color: #435DEF;
     
-    --lobster-font: 'Lobster', 'sans-selft';
-    --sans-font: 'DM Sans', sans-serif;
+    --lobster-font: 'Lobster Two', 'selft';
+    --sans-font: 'Open Sans', serif;
 }
 
-center{
+.center-row{
     display: flex;
     justify-content: center;
     align-items: center;
